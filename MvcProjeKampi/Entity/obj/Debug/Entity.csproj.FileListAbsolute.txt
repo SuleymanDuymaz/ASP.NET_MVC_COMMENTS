@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\bin\Debug\Entity.dll.config
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\bin\Debug\Entity.dll
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\bin\Debug\Entity.pdb
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\obj\Debug\Entity.dll
+C:\Users\Hp\source\repos\MvcProjeKampi\Entity\obj\Debug\Entity.pdb

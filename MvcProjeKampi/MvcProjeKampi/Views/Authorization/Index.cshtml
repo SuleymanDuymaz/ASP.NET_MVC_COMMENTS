@@ -1,0 +1,48 @@
+﻿@using Entity.Concrete
+@model List<Admin>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+
+@*<link href="~/Content/bootstrap.min.css" rel="stylesheet" />*@
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th> ID </th>
+        <th> Kullanıcı Adı </th>
+        <th> Rol </th>
+        <th> Durum </th>
+        <th> PASİF YAP </th>
+        <th> YETKİ DEĞİŞTİR </th>
+
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.AdminID</td>
+            <td>@item.AdminUserName</td>
+            <td>@item.AdminRole</td>
+            <td>@item.AdminRole</td>
+
+            
+            <td>  <a href="#" class="btn btn-danger">Pasif Yap</a>  </td>
+            <td> <a href="#" class="btn btn-warning">Yetkisini Değiştir</a></td>
+            
+
+        </tr>
+
+
+
+
+    }
+
+</table>
+<br />
+
+<a href="/Authorization/AddAdmin" class="btn btn-info">Yeni Admin Ekle</a>
+
+
+
